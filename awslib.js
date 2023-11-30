@@ -6,6 +6,7 @@
 // @description  let's enhance some stuff (dashboard)
 // @author       Benjamin Delichere
 // @match        https://cloudwatch.amazonaws.com/dashboard.html*
+// @match        https://us-west-2.console.aws.amazon.com/cloudwatch*
 // @grant        none
 // @copyright    Benjamin Delichere
 // @license      X11 (MIT)
